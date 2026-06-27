@@ -1,7 +1,5 @@
 # Hi there, I'm Mayur Durbule 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-
 ## About Me
 
 Software Engineer passionate about building scalable backend applications using Java and Spring Boot. Currently working on FinTech payment systems and continuously learning Microservices, System Design, and Rust.
@@ -16,6 +14,6 @@ Software Engineer passionate about building scalable backend applications using 
 
 ## Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mayur-durbule-20981b251/
+- 📧 Email: durbulemayur@gmail.com
 - 📍 Nagpur, India
